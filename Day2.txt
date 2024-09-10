@@ -1,14 +1,38 @@
 IMP    -/     //Class is a collection of variables and methords
+//where Varibles are the  data containers that save the date values during java Program 
+      --------   execution.
+// where Methords is a block of code which only runs when it is called.
+You can resamble Methords as Functions in C++.
 //Basic difference between function and methord are 
+----------------------------------------------------
 i) function is represent out of the class else methord will represent inner the class  
 // entity= everything is an entity/-
 
 #  What are the advance feature of  JAVA which is not in C ,C++ ?
+ Comparison Index            C++                             JAVA
+Platform-Independent     C++ is a PLatform                Java is a platform 
+                         dependent                        Independent
+Mainly Used For          C++ is mainly used               Java is mainly used
+                         for System Programming           for Application Programming
+                                                          It is widely used for Windows-based
+                                                          web-based, enterprise and Mobile                                                                                                                             Application
+Design Goal              C++ was designed for             Java is designed and Created as
+                         Systems and Application          an interpreter for Printing 
+                         Programming. This was an         Systems but later extended as a
+                         extension of C Programming       Support network Computing.
+                         language. 
+Operator                 C++ Support Operator             Java Doesn't Support Operator
+Overloading              Overloading                      Overloading
+Multiple                 C++ Supports Multiple            Java Doesn't Supoort Multiple 
+Inheritance              Inheritance                      Inheritance Direclty throw the
+                                                          Class. Java Achive this with the 
+                                                          Concept Multiple Inheritance.
                                             OR
 # Features of JAVA 
        
 Java is an Object Oriented Language.
 the feature of java are as follows:
+
 1) platform Indepandance
 
 Because of the bytecode functionality java is a platform independent
