@@ -37,7 +37,9 @@ the feature of java are as follows:
 
 Because of the bytecode functionality java is a platform independent
 I)Platform nutral
+
 Ii)Architectural Nutral
+The term "Architecture Neutral" refers to Java's Ability to Various Hardware and Software platform without modification.
 
 Memory allocaion of variable in java Indepentent of system architecture it means that all the variables 
 will allways allocte a constant amount of memory on all the architecture(16 byte,32 byte ,24 byte) 
