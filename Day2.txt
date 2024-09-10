@@ -73,11 +73,20 @@ wrapping of data into a single unit is data encapsulation.
 4) Inheritance
 it is a feature by which a class can acquire(access) a content of another class.
 
-5)Polymorphism
-"Poly" means many
+5)Polymorphism         //"Poly" means many
+Polymorphism is a fundamental concept in object-oriented programming that allows 
+objects to be treated as instances of their parent class rather than their actual class. 
 
 6)Dynamic Binding   //dynamic memory allocation and runtime memory allocation
+Dynamic binding in Java, also known as late binding or runtime polymorphism, is a mechanism 
+where the method to be called is determined at runtime rather than at compile time
+
 7) Message Passing  //call by value and reaturn by value
+In object-oriented programming, communication between objects is a vital aspect of building complex systems.
+One of the key mechanisms for achieving this communication is message passing. In Java, message passing 
+allows objects to interact with each other by invoking methods and passing data 
+between them. In this article, we will explore the concept of message passing in Java 
+and demonstrate its usage through example programs.
 
 #  first Program
 class First
