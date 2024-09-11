@@ -54,7 +54,7 @@ B) it has byte code securaty.
 c) it has high encryption standard.
 
 3)Rhobast
-
+Robustness is a quality of Java programs that ensures they can handle unexpected events and errors without crashing or causing harm
 
                                             ------------------X----------------------
 # Properties of Object Orientation in java
