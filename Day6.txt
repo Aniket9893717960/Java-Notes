@@ -1,4 +1,15 @@
- IMP  Note     -/    # how the decimal data stored in binary ?   /-
+ IMP  Note  ------------/    # how the decimal data stored in binary ?  
+              the storage and Processing of Decimal data in Binary format will handles 
+              with Specific datatypes and Binary encoding methords.
+       i) Integers are Stored in Binary notation Directly, which involves it's decimal no. into
+       it's binary equivalent using the division by 2 methords as previously describe.
+   ii) Decimal with fraction part are stored in the format called floating point representation using
+   Adhering to IEEE 754 standards.
+          Value=Sign×Mantissa×2^Exponent
+        Where:        Sign: Indicates if the number is positive or negative.
+Mantissa (Significand): The actual digits of the number, representing its precision.
+Exponent: Determines the scale, or how large or small the number is.
+/--------------------------------------------------------------------------------------------
 -/   float is generaly use to build at that time is to calculating  Percentage   
 This will be work on the ratio of 1:3    
 
