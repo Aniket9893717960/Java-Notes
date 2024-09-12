@@ -1,6 +1,11 @@
- IMP -/    #why Binary language is used for conversation with computer or machine ?  
-                  #what is variable ? /-
-
+ IMP -/   
+--------------------------------------------------------------------------------------------
+#why Binary language is used for conversation with computer or machine ?  
+There are Several Reasons are As follows.
+ i) Simplicity in Hardware:
+    Computer are build with electronic COmponents like Transister which have only two states: 0(off) and 1{on}.
+    Binary System Perfectly matched with Hardware, making it easier to implement logical operation.
+--------------------------------------------------------------------------------------------
  #  Datatype
 all those pre defined keyword by which we can spacify type of variable or data are called datatype.
 
@@ -10,7 +15,6 @@ Declaration of variable means we are going to reserve some memory space in the s
 #  categoies of Datatype
 
 1)  byte  ->  1 byte   -> 8 bits
-
 
 Short -> 2 bytes
 
